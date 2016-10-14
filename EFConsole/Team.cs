@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EF2
 {
-    class Team
+   public class Team
     {
         public int Id { get; set; }
         public string Coach { get; set; }
